@@ -2,3 +2,4 @@
 
 def display_rainbow(colors)
   puts "Red: #{colors[0]}"
+end
